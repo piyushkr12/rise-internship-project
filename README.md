@@ -34,7 +34,7 @@ The hosted project links are temporary and may stop working after the AWS Free T
 I'm **Piyush Kumar**, a passionate web development and cloud enthusiast. This internship project was a part of my hands-on learning experience with website hosting, server configuration, and static site deployment.
 
 - 🔗 [GitHub Profile](https://github.com/piyushkr12)
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/piyush-kumar-a621301b2/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/piyush-kumar-a621301b2/)  
 
 ---
 
