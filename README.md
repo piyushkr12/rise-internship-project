@@ -19,6 +19,8 @@ A simple static website developed using HTML and CSS, deployed on an Amazon EC2 
 ### Description:
 A fully static website hosted using **Amazon S3** and served globally via **CloudFront CDN**. This project demonstrates cost-effective, scalable, serverless website hosting for static pages like portfolios, resumes, or landing pages.
 
+- Live URL (S3 Static website hosting):http://host-demo-static-website.s3-website-us-east-1.amazonaws.com/
+- Live URL (S3 CloudFront):https://d3hm30chezztsb.cloudfront.net/
 - **Services Used:** Amazon S3, CloudFront (CDN)
 - **Project Location:** [`Project 2`]
 
